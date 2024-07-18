@@ -1,5 +1,5 @@
 # Food Web Page!
-[Image](https://github.com/user-attachments/assets/e77309da-79a2-408f-95bd-c0bada4d913a)
+![_D__veda%20it_Projects_food%20web_index html](https://github.com/user-attachments/assets/8804d1a3-83ef-4d9f-821c-624ad0909447)
 
 This project is a simple food web page built using HTML, CSS, and a bit of JavaScript. It showcases various food items and includes interactive features for a better user experience.
 
